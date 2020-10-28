@@ -138,8 +138,9 @@ const About = () => {
     'Statistics, Econometrics',
     'PySpark, SQL, Databricks',
     'PyTorch, TensorFlow',
-    'Python, R, C++',
+    'Python, R',
     'React, Gatsby, Javascript',
+    'C++, Haskell',
   ];
 
   return (
