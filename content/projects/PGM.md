@@ -11,4 +11,4 @@ company: 'Princeton University'
 showInProjects: true
 ---
 
-A more math-heavy project. Probabilistic Graphical Models are commonly used to represent rich joint distributions of different variables, and has many applications in modern deep learning (including Graph Convolutional Neural Networks, Deep Causal Inference). Developed efficient implementation of Belief Propagation on Markov Random Fields to estimate marginal and joint probabilities and for MAP estimates.
+A more math-heavy project. Probabilistic Graphical Models are commonly used to represent rich joint distributions of different variables, and has many applications in modern deep learning. Developed efficient implementation of Belief Propagation on Markov Random Fields to estimate marginal and joint probabilities and for MAP estimates.
