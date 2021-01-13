@@ -166,7 +166,9 @@ const About = () => {
               <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>.
               After graduating, I worked in the Data Science and Artificial Intelligence division at{' '}
               <a href="https://www.tech.gov.sg">GovTech Singapore</a>, where we build AI Platforms
-              for Singapore's largest job portal.
+              for Singapore's largest job portal. Currently, I am serving mandatory military service
+              with the Singapore Armed Forces, and am looking for opportunities in machine learning
+              for mid 2021.
             </p>
 
             <p>Here's what I've been up to lately: </p>
