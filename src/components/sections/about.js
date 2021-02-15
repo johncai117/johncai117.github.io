@@ -171,7 +171,7 @@ const About = () => {
 
             <p>
               Currently, I am serving mandatory military service with the Singapore Armed Forces,
-              and am looking for opportunities in machine learning for mid 2021.
+              and am looking for opportunities in machine learning after my service.
             </p>
 
             <p>Here's what I've been up to lately: </p>
