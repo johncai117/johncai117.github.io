@@ -150,19 +150,20 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm John, a software engineer based in Singapore. </p>
+            <p>Hello! I'm John, a software engineer currently based in Singapore. </p>
 
             <p>
               I enjoy building machine learning models that have a real-world impact on people's
               lives. My goal is to build ML systems that adapt the latest state-of-the-art
-              algorithms to produce scalable solutions.
+              algorithms to produce practical, scalable solutions.
             </p>
 
             <p>
               I have graduated with a Masters from{' '}
               <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
-              specializing in Financial Engineering and Machine Learning. At Princeton, I presented
-              my research on deep learning for computer vision at{' '}
+              specializing in Financial Engineering and Machine Learning. While at Princeton, I won
+              2nd place in a CVPR challenge and presented my research on deep learning for computer
+              vision at{' '}
               <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>.
               After graduating, I worked in the Data Science and Artificial Intelligence division at{' '}
               <a href="https://www.tech.gov.sg">GovTech Singapore</a>, where we build AI Platforms
