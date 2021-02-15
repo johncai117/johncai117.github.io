@@ -165,7 +165,7 @@ const About = () => {
               2nd place in a CVPR Few-Shot Learning challenge and presented my research on deep
               learning for computer vision at{' '}
               <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>.
-              After graduating, I worked in the AI Platforms at{' '}
+              After graduating, I worked in the AI Platforms team at{' '}
               <a href="https://www.tech.gov.sg">GovTech Singapore</a>, where we build recommender
               systems for Singapore's largest job portal.
             </p>
