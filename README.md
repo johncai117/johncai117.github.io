@@ -24,11 +24,13 @@ This is forked from Brittany's repo. She has kindly given permission to fork her
 
 ## Edits that I have made
 
-Having had little experience with the latest tools in web development, I decided to try it out for myself so that I can learn some useful frontend web dev skills. This started off with spending 2 afternoons going through <a href="https://www.gatsbyjs.com/tutorial/" target="_blank">Gatsby tutorial</a>, which quickly got me up to speed with the basics of the language.
+Having had relatively little experience with the latest tools in web development, I decided to try it out for myself so that I can learn some useful frontend web dev skills. This started off with spending 2 afternoons going through <a href="https://www.gatsbyjs.com/tutorial/" target="_blank">Gatsby tutorial</a>, which quickly got me up to speed with the basics of the language.
 
 Following which, I spent another afternoon looking at Brittany Chiang's code and modifying the parts that needed to be changed. It's a fairly intuitive process, especially as she comments her code well. A difficulty came in changing the logos, which my good friend <a href="https://github.com/hivestrung" target="_blank">Shiv Gunter</a> did warn me about. Thankfully, after learning about what he did with the Scalable Vector Graphics, it was not too diffuclt to change the logos.
 
 Deploying had a handy guide here that is rather well written so as long as you follow it, it is quite simple to deploy on Github Pages: <a href="https://www.gatsbyjs.com/docs/how-gatsby-works-with-github-pages/" target="_blank"> deployment tutorial</a>.
+
+Finally, I realized that there was some problem rendering the website preview on LinkedIn. To resolve this, I had to change the metadata of the website's image to point to where the image is stored in the website ("johnc.ai/og.png"). After recompiling the website and deploying it - it rendered properly on LinkedIn.
 
 ## Some next steps
 
