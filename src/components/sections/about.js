@@ -150,24 +150,24 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm John, a software engineer currently based in Singapore. </p>
+            <p>Hello! I'm John, a software engineer seeking the next big problem to solve.</p>
 
             <p>
-              I enjoy building machine learning models that have a real-world impact on people's
-              lives. My goal is to build ML systems that adapt the latest state-of-the-art
-              algorithms to produce practical, scalable solutions.
+              I enjoy building machine learning platforms that have a real-world impact on people's
+              lives. My goal is to build ML systems that adapt innovative algorithms to produce
+              effective and scalable solutions.
             </p>
 
             <p>
-              I have graduated with a Masters from{' '}
+              I graduated with a Masters from{' '}
               <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
               specializing in Financial Engineering and Machine Learning. While at Princeton, I won
-              2nd place in a CVPR challenge and presented my research on deep learning for computer
-              vision at{' '}
+              2nd place in a CVPR Few-Shot Learning challenge and presented my research on deep
+              learning for computer vision at{' '}
               <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>.
-              After graduating, I worked in the Data Science and Artificial Intelligence division at{' '}
-              <a href="https://www.tech.gov.sg">GovTech Singapore</a>, where we build AI Platforms
-              for Singapore's largest job portal.
+              After graduating, I worked in the AI Platforms at{' '}
+              <a href="https://www.tech.gov.sg">GovTech Singapore</a>, where we build recommender
+              systems for Singapore's largest job portal.
             </p>
 
             <p>
