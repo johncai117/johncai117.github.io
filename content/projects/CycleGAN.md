@@ -1,14 +1,14 @@
 ---
-date: '2021-12-01'
+date: '2020-01-01'
 title: 'CycleGAN for Style Transfer'
 github: 'https://github.com/johncai117/Generative-Adversarial-Network'
 tech:
   - Python
   - TensorFlow
-  - Generative Adversarial Networks
+  - GANs
   - Computer Vision
 company: 'Princeton University'
 showInProjects: true
 ---
 
-Utilized a Cycle-Consistent Generative Adversarial Networks to generate Monet-like paintings from natural images.
+Utilized a Cycle-Consistent Generative Adversarial Networks for style transfer. This project aims to generate Monet-like paintings from natural images.
