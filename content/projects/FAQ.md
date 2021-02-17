@@ -8,7 +8,7 @@ tech:
   - sentence_transformers
   - ntlk
 company: 'Princeton University'
-showInProjects: true
+showInProjects: false
 ---
 
 Utilized a BERT-based transformer model to generate a FAQ list given a product description table. Implemented efficient information retrieval by comparing sentence embeddings of user input with questions.
