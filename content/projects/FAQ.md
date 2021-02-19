@@ -5,10 +5,10 @@ tech:
   - Python
   - Tensorflow
   - transformers
-  - sentence_transformers
+  - HuggingFace
   - ntlk
 company: 'Princeton University'
-showInProjects: false
+showInProjects: True
 ---
 
 Utilized a BERT-based transformer model to generate a FAQ list given a product description table. Implemented efficient information retrieval by comparing sentence embeddings of user input with questions.
