@@ -150,7 +150,9 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm John, a software engineer seeking the next big problem to solve.</p>
+            <p>
+              Hello! I'm John, a machine learning engineer seeking the next big problem to solve.
+            </p>
 
             <p>
               I enjoy building machine learning platforms that have a real-world impact on people's

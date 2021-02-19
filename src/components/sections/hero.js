@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build ML solutions.</h3>;
   const four = (
     <p>
-      I'm a software engineer with experience building machine learning systems for computer vision,
+      I'm a machine learning engineer with experience building ML systems for computer vision,
       natural language processing and economic forecasting. Was previously at{' '}
       <a href="https://www.tech.gov.sg">@GovTech</a>,{' '}
       <a href="https://www.smartnation.gov.sg/">@Smart Nation</a>,{' '}
