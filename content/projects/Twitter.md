@@ -13,4 +13,4 @@ company: 'University of Cambridge'
 showInProjects: true
 ---
 
-Scraped tweets and news from Trump, CNN and New York Times relating to the economy. Built a preediction model for business confidence using NLTK's Vader sentiment.
+Scraped tweets and news from Trump, CNN and New York Times relating to the economy. Built a prediction model for business confidence using NLTK's Vader sentiment.
