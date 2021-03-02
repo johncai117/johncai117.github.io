@@ -136,10 +136,10 @@ const About = () => {
     'Computer Vision, Machine Learning',
     'Natural Language Processing',
     'Statistics, Econometrics',
-    'PySpark, SQL, Databricks',
+    'PySpark, SQL',
     'PyTorch, TensorFlow',
     'Python, R',
-    'React, Gatsby, Javascript',
+    'Flask, React, Gatsby',
     'C++, Haskell',
   ];
 
