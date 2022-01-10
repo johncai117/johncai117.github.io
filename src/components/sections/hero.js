@@ -53,7 +53,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm an Applied Research Scientist with experience in graph neural networks, causal inference
-      and deep learning. Now at <a href="https://www.snap.com">@Snap</a>, was previously at{' '}
+      and deep learning. Now at <a href="https://www.snap.com">@Snap</a>, I was previously at{' '}
       <a href="https://www.tech.gov.sg">@GovTech</a>,{' '}
       <a href="https://bcf.princeton.edu/master-in-finance/">@Princeton</a> and{' '}
       <a href="https://www.cam.ac.uk">@Cambridge</a>.
