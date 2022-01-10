@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'John Cai',
     description:
-      'I\'m a machine learning engineer with experience building ML systems for computer vision, natural language processing and economic forecasting. ',
+      'I\'m an Applied Research Scientist at Snap Inc. I primarily work on machine learning for causal inference, bayesian networks and A/B testing. ',
     siteUrl: 'https://johnc.ai', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@johncai117',
