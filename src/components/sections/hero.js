@@ -52,11 +52,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build ML solutions.</h3>;
   const four = (
     <p>
-      I'm a machine learning engineer with experience building ML systems for computer vision,
-      natural language processing and economic forecasting. Was previously at{' '}
+      I'm an Applied Research Scientist with experience in graph neural networks, causal inference
+      and deep learning. Now at <a href="https://www.snap.com">@Snap</a>, was previously at{' '}
       <a href="https://www.tech.gov.sg">@GovTech</a>,{' '}
-      <a href="https://www.smartnation.gov.sg/">@Smart Nation</a>,{' '}
-      <a href="https://www.arcstone.co">@Arcstone</a>,{' '}
       <a href="https://bcf.princeton.edu/master-in-finance/">@Princeton</a> and{' '}
       <a href="https://www.cam.ac.uk">@Cambridge</a>.
     </p>

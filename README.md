@@ -75,7 +75,7 @@ Yes, you can fork the repo. Please give proper credit to [brittanychiang.com](ht
    npm run build
    ```
 
-1. Preview the site as it will appear once deployed
+2. Preview the site as it will appear once deployed
 
    ```sh
    npm run serve
