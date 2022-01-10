@@ -49,7 +49,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">John Cai.</h2>;
-  const three = <h3 className="big-heading">I build ML solutions.</h3>;
+  const three = <h3 className="big-heading">I build reliable ML.</h3>;
   const four = (
     <p>
       I'm an Applied Research Scientist with experience in graph neural networks, causal inference
