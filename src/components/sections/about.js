@@ -171,8 +171,7 @@ const About = () => {
               specializing in Financial Engineering and Machine Learning. While at Princeton, I
               presented my research on deep learning under limited data settings and domain shifts
               at <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>{' '}
-              and
-              <a href="https://l2id.github.io">CVPR 2021</a>.
+              and <a href="https://l2id.github.io">CVPR 2021</a>.
             </p>
 
             <p>Here's what I've been up to lately: </p>
