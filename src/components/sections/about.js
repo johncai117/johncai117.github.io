@@ -168,10 +168,11 @@ const About = () => {
               modeling and heterogenous treatment effects. I also develop methods to improve our A/B
               experimentation platform. Previously, I graduated with a Masters from{' '}
               <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
-              specializing in Financial Engineering and Machine Learning. While at Princeton, I won
-              2nd place in a CVPR Few-Shot Learning challenge and presented my research on deep
-              learning for computer vision at{' '}
-              <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>.
+              specializing in Financial Engineering and Machine Learning. While at Princeton, I
+              presented my research on deep learning under limited data settings and domain shifts
+              at <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>{' '}
+              and
+              <a href="https://l2id.github.io">CVPR 2021</a>.
             </p>
 
             <p>Here's what I've been up to lately: </p>
