@@ -163,11 +163,10 @@ const About = () => {
 
             <p>
               Currently, I work as an applied research scientist in the engineering team at Snap
-              Inc, where we build products that empower people to express themselves, learn about
-              the world, and have fun together. At Snap, I focus on graph ML, causal ML, user
-              modeling and heterogenous treatment effects. I also develop methods to improve our A/B
-              experimentation platform. Previously, I graduated with a Masters from{' '}
-              <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
+              Inc, where we develop scalable ML techniques to solve engineering and business
+              problems. Specifically, I work on graph ML, causal ML, user modeling, reinforcement
+              learning and heterogenous treatment effects. Previously, I graduated with a Masters
+              from <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
               specializing in Financial Engineering and Machine Learning. While at Princeton, I
               presented my research on deep learning under limited data settings and domain shifts
               at <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>{' '}
