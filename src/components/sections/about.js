@@ -156,9 +156,8 @@ const About = () => {
             </p>
 
             <p>
-              I enjoy adapting statistical and computational methods to solve real business
-              problems. My goal is to translate innovative algorithms into scalable and impactful
-              products.
+              I enjoy adapting statistical and computational methods to solve real world problems.
+              My goal is to translate innovative algorithms into scalable and impactful products.
             </p>
 
             <p>
