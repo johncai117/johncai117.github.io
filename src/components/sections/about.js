@@ -133,7 +133,7 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Computer Vision, Machine Learning',
+    'Machine Learning, Computer Vision',
     'Natural Language Processing',
     'Statistics, Econometrics',
     'PySpark, SQL',
