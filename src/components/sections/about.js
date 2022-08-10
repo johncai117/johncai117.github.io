@@ -151,25 +151,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm John, a machine learning engineer seeking the next big problem to solve.
+              Hello! I'm John, an applied research scientist working on machine learning and causal
+              inference.
             </p>
 
             <p>
-              I enjoy building machine learning platforms that have a real-world impact on people's
-              lives. My goal is to build ML systems that adapt innovative algorithms to produce
-              effective and scalable solutions.
+              I enjoy adapting statistical and computational methods to solve real business
+              problems. My goal is to translate innovative algorithms into scalable and impactful
+              products.
             </p>
 
             <p>
-              I graduated with a Masters from{' '}
+              Currently, I work as an applied research scientist in the engineering team at Snap
+              Inc, where we build products that empower people to express themselves, learn about
+              the world, and have fun together. At Snap, I focus on graph ML, causal ML, user
+              modeling and heterogenous treatment effects. I also develop methods to improve our A/B
+              experimentation platform. Previously, I graduated with a Masters from{' '}
               <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
               specializing in Financial Engineering and Machine Learning. While at Princeton, I won
               2nd place in a CVPR Few-Shot Learning challenge and presented my research on deep
               learning for computer vision at{' '}
               <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>.
-              After graduating, I worked in the AI Platforms team at{' '}
-              <a href="https://www.tech.gov.sg">GovTech Singapore</a>, where we build recommender
-              systems for Singapore's largest job portal.
             </p>
 
             <p>Here's what I've been up to lately: </p>

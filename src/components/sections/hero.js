@@ -49,15 +49,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">John Cai.</h2>;
-  const three = <h3 className="big-heading">I build ML solutions.</h3>;
+  const three = <h3 className="big-heading">I build ML products.</h3>;
   const four = (
     <p>
-      I'm a machine learning engineer with experience building ML systems for computer vision,
-      natural language processing and economic forecasting. Was previously at{' '}
-      <a href="https://www.tech.gov.sg">@GovTech</a>,{' '}
-      <a href="https://www.smartnation.gov.sg/">@Smart Nation</a>,{' '}
-      <a href="https://www.arcstone.co">@Arcstone</a>,{' '}
-      <a href="https://bcf.princeton.edu/master-in-finance/">@Princeton</a> and{' '}
+      I'm an applied research scientist at <a href="https://eng.snap.com">@Snap Inc</a>, , working
+      on novel methods for graph machine learning, user modelling and causal inference. I have also
+      published in deep learning. I was previously at <a href="https://www.tech.gov.sg">@GovTech</a>
+      , <a href="https://bcf.princeton.edu/master-in-finance/">@Princeton</a> and{' '}
       <a href="https://www.cam.ac.uk">@Cambridge</a>.
     </p>
   );
