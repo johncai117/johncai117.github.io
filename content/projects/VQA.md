@@ -10,5 +10,5 @@ tech:
   - Computer Vision
   - Natural Language Processing
 company: Princeton University
-showInProjects: false
+showInProjects: True
 ---
