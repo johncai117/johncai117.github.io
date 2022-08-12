@@ -133,13 +133,13 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Machine Learning, Computer Vision',
+    'Graph ML, Computer Vision',
     'Natural Language Processing',
-    'Statistics, Econometrics',
+    'Causal ML, Econometrics',
+    'Statistics, Reinforcement Learning',
     'PySpark, SQL',
     'PyTorch, TensorFlow',
     'Python, R',
-    'Flask, React, Gatsby',
     'C++, Haskell',
   ];
 
@@ -156,8 +156,9 @@ const About = () => {
             </p>
 
             <p>
-              I enjoy adapting statistical and computational methods to solve real world problems.
-              My goal is to translate innovative algorithms into scalable and impactful products.
+              I enjoy adapting statistcail and computational methods to solve real world problems.
+              My goal is to translate innovative algorithms into scalable products. I enjoy being
+              scrappy when needed, and will find ways to unblock myself to increase my impact.
             </p>
 
             <p>
@@ -169,7 +170,7 @@ const About = () => {
               specializing in Financial Engineering and Machine Learning. While at Princeton, I
               presented my research on deep learning under limited data settings and domain shifts
               at <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>{' '}
-              and <a href="https://l2id.github.io">CVPR 2021</a>.
+              and <a href="https://l2id.github.io">CVPR 2021 L2ID</a>.
             </p>
 
             <p>Here's what I've been up to lately: </p>
