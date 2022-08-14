@@ -12,6 +12,6 @@ tech:
 showInProjects: true
 ---
 
-Paper accepted to CVPR 2021 Learning from Limited and Imperfect Data (L2ID) Workshop.
+Paper presented at CVPR 2021 Learning from Limited and Imperfect Data (L2ID) Workshop.
 
-Proposed a novel way to combine score predictions on the support set from fine-tuned feature encoder by constructing an embedding space using a graph neural network. Demonstrated effectiveness of solution over state-of-the-art methods, and the versatility of the solution in merging fine-tuning with metric learning.
+Proposed a novel way to combine score predictions on the support set from fine-tuned feature encoder by constructing an embedding space using a graph neural network. Demonstrated effectiveness of solution over state-of-the-art methods, and the versatility of the solution.
