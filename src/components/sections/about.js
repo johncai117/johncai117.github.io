@@ -153,13 +153,13 @@ const About = () => {
             <p>
               Hello! I'm John, an applied research scientist excited about using statistical and
               computational methods to solve real world problems. My goal is to translate innovative
-              algorithms into scalable products and solutions.
+              algorithms into scalable products.
             </p>
 
             <p>
               Currently, I work on the Applied Research team at{' '}
               <a href="https://eng.snap.com">@Snap Inc</a>, where we develop reliable ML techniques
-              to solve engineering and business problems at scale.
+              to solve engineering and business problems for over 300m daily active users.
             </p>
 
             <p>
