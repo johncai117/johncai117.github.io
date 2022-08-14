@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build reliable ML.</h3>;
   const four = (
     <p>
-      I'm an applied research scientist specializing in building reliable and scalable ML.
+      I'm an applied research scientist specializing in building trustworthy and reliable ML.
       Currently, I'm focused on building solutions for graph machine learning, user modeling and
       large-scale online experimentation at <a href="https://eng.snap.com">@Snap Inc</a>.
     </p>
