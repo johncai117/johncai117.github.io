@@ -133,10 +133,10 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Graph ML, Computer Vision',
-    'Natural Language Processing',
-    'Causal ML, Econometrics',
-    'Statistics, Reinforcement Learning',
+    'Graph ML, Causal ML',
+    'Computer Vision, NLP',
+    'A/B Testing, Econometrics',
+    'Multi-Armed Bandits',
     'PySpark, SQL',
     'PyTorch, TensorFlow',
     'Python, R',
@@ -151,22 +151,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm John, an applied research scientist working on machine learning and causal
-              inference.
+              Hello! I'm John, an Applied Research Scientist excited about using statistical and
+              computational methods to solve real world problems. My goal is to translate innovative
+              algorithms into scalable products and solutions.
             </p>
 
             <p>
-              I enjoy adapting statistcail and computational methods to solve real world problems.
-              My goal is to translate innovative algorithms into scalable products. I enjoy being
-              scrappy when needed, and will find ways to unblock myself to increase my impact.
+              Currently, I work as an Applied Research Scientist at{' '}
+              <a href="https://eng.snap.com">@Snap Inc</a>, where we develop reliable ML techniques
+              to solve engineering and business problems at scale.
             </p>
 
             <p>
-              Currently, I work as an applied research scientist in the engineering team at Snap
-              Inc, where we develop scalable ML techniques to solve engineering and business
-              problems. Specifically, I work on graph ML, causal ML, user modeling, reinforcement
-              learning and heterogenous treatment effects. Previously, I graduated with a Masters
-              from <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
+              Specifically, I work on problems in graph ML, causal ML, user modeling, A/B testing
+              and heterogenous treatment effects. Previously, I graduated from{' '}
+              <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
               specializing in Financial Engineering and Machine Learning. While at Princeton, I
               presented my research on deep learning under limited data settings and domain shifts
               at <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>{' '}

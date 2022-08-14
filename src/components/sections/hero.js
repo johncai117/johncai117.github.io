@@ -52,12 +52,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build reliable ML.</h3>;
   const four = (
     <p>
-      I'm an applied research scientist currently at <a href="https://eng.snap.com">@Snap Inc</a>,
-      working on novel methods for graph machine learning, user modeling and large-scale causal
-      inference. I have also published in deep learning. I was previously at{' '}
-      <a href="https://www.tech.gov.sg">@GovTech</a>,{' '}
-      <a href="https://bcf.princeton.edu/master-in-finance/">@Princeton</a> and{' '}
-      <a href="https://www.cam.ac.uk">@Cambridge</a>.
+      I'm an applied research scientist specializing in building reliable and scalable ML.
+      Currently, I'm focused on building solutions for graph machine learning, user modeling and
+      large-scale online experimentation at <a href="https://eng.snap.com">@Snap Inc</a>.
     </p>
   );
   const five = (

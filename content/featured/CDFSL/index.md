@@ -12,6 +12,6 @@ tech:
 showInProjects: true
 ---
 
-2nd Place for CVPR 2020 Cross-Domain Few-Shot Learning (CDFSL) Challenge. Oral Presentation at CVPR VL3 Workshop.
+2nd Place for CVPR 2020 Cross-Domain Few-Shot Learning (CDFSL) Challenge. Oral Presentation at CVPR 2020 VL3 Workshop.
 
 Trained a novel deep neural network to classify satellite, agricultural and medical images by successfully generalizing using only a few images. Adapts and combines a first-order Model-Agnostic Meta-Learning (MAML) algorithm with a Graph Neural Network (GNN) to learn how to fine-tune. Data augmentation and ensemble methods are incorporated to improve generalization during transfer learning.
