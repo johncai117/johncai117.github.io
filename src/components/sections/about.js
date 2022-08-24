@@ -164,7 +164,7 @@ const About = () => {
 
             <p>
               Specifically, I work on problems in graph ML, causal ML, user modeling, A/B testing
-              and heterogenous treatment effects. Previously, I graduated from{' '}
+              and heterogeneous treatment effects. Previously, I graduated from{' '}
               <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
               specializing in Financial Engineering and Machine Learning. While at Princeton, I
               presented my research on deep learning under limited data settings and domain shifts
