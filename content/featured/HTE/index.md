@@ -13,4 +13,4 @@ showInProjects: true
 
 Oral presentation at the Conference on Digital Experimentation (CODE) 2022 at MIT.
 
-Proposed a systematic paradigm for detecting, surfacing and characterizing heterogeneous treatment effects. First, we Presented a method to detect if treatment effect variation is present in an experiment, surface the most relevant dimensions for heterogeneity, and characterize the heterogeneity of the estimated individual treatment effects.
+Proposed a systematic paradigm for detecting, surfacing and characterizing heterogeneous treatment effects. Presented a method to detect if treatment effect variation is present in an experiment, surface the most relevant dimensions for heterogeneity, and characterize the heterogeneity of the estimated individual treatment effects.
