@@ -159,12 +159,12 @@ const About = () => {
             <p>
               Currently, I work on the Ranking Science team at{' '}
               <a href="https://eng.snap.com">Snap Inc</a>, where we drive horizontal improvements
-              for the major ranking and recommendations surfaces across Snapchat.
+              for the major ranking and recommendation surfaces across Snapchat.
             </p>
 
             <p>
               Previously, I worked on the Applied Research team at Snap, primarily developing causal
-              ML and large-scale forecasting models. Before Snap, I graduated from{' '}
+              ML, graph ML and large-scale forecasting systems. Before Snap, I graduated from{' '}
               <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
               specializing in Financial Engineering and Machine Learning. While at Princeton, I
               presented my research on deep learning under limited data settings and domain shifts
