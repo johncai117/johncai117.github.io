@@ -153,13 +153,13 @@ const About = () => {
             <p>
               Hello! I'm John, an Applied Research Scientist excited about using machine learning to
               solve real world problems. My goal is to translate innovative algorithms into scalable
-              products
+              products.
             </p>
 
             <p>
               Currently, I work on the Ranking Science team at{' '}
               <a href="https://eng.snap.com">@Snap Inc</a>, where we drive horizontal improvements
-              for the major ranking surfaces across Snapchat.
+              for the major ranking and recommendations surfaces across Snapchat.
             </p>
 
             <p>
