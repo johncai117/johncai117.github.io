@@ -17,6 +17,7 @@ import {
   IconTwitter,
   IconZap,
 } from '@components/icons';
+import IconGoogleScholar from './googlescholar';
 
 const Icon = ({ name }) => {
   switch (name) {
@@ -36,6 +37,8 @@ const Icon = ({ name }) => {
       return <IconInstagram />;
     case 'Linkedin':
       return <IconLinkedin />;
+    case 'GoogleScholar':
+      return <IconGoogleScholar />;
     case 'Loader':
       return <IconLoader />;
     case 'Location':
