@@ -55,7 +55,7 @@ const Hero = () => {
       I'm an applied research scientist with expertise in developing reliable ML models, building
       scalable MLOps systems and leveraging data to drive business outcomes. Currently, I'm focused
       on building solutions for ranking and recommendations at{' '}
-      <a href="https://eng.snap.com">@Snap Inc</a>.
+      <a href="https://eng.snap.com">Snap Inc</a>.
     </p>
   );
   const five = (

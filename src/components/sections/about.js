@@ -158,7 +158,7 @@ const About = () => {
 
             <p>
               Currently, I work on the Ranking Science team at{' '}
-              <a href="https://eng.snap.com">@Snap Inc</a>, where we drive horizontal improvements
+              <a href="https://eng.snap.com">Snap Inc</a>, where we drive horizontal improvements
               for the major ranking and recommendations surfaces across Snapchat.
             </p>
 
