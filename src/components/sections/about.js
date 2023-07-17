@@ -151,20 +151,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm John, an applied research scientist excited about using statistical and
-              computational methods to solve real world problems. My goal is to translate innovative
-              algorithms into scalable products.
+              Hello! I'm John, an Applied Research Scientist excited about using machine learning to
+              solve real world problems. My goal is to translate innovative algorithms into scalable
+              products
             </p>
 
             <p>
-              Currently, I work on the Applied Research team at{' '}
-              <a href="https://eng.snap.com">@Snap Inc</a>, where we develop reliable ML techniques
-              to solve engineering and business problems for over 300m daily active users.
+              Currently, I work on the Ranking Science team at{' '}
+              <a href="https://eng.snap.com">@Snap Inc</a>, where we drive horizontal improvements
+              for the major ranking surfaces across Snapchat.
             </p>
 
             <p>
-              Specifically, I work on problems in graph ML, causal ML, user modeling, A/B testing
-              and heterogeneous treatment effects. Previously, I graduated from{' '}
+              Previously, I worked on the Applied Research team at Snap, primarily developing causal
+              ML and large-scale forecasting models. Before Snap, I graduated from{' '}
               <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
               specializing in Financial Engineering and Machine Learning. While at Princeton, I
               presented my research on deep learning under limited data settings and domain shifts

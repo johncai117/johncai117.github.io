@@ -8,6 +8,6 @@ url: 'https://www.snap.com/'
 ---
 
 - Quantified ads lift using machine learning and built models to rank house ads based on predicted user retention. Results were used to allocate over $XXm worth of annual house ads budget.
-- Developed new algorithms for causal graph learning using shrinkage estimation to map out how different metrics
-  relate to each other.
-- Built a self-serve tool in Shiny to diagnose variance overestimation in new randomization IDs for A/B testing.
+- Deployed and scaled a ML feature monitoring system using ML time series models in PySpark, Dataproc and Cloud Run.
+- Developed a large-scale revenue forecasting system and decreased out-of-sample mean average percentage error (MAPE) by 1.5% by leveraging forecast reconciliation and ML signals.
+- Devised a new method to detect, surface and characterize heterogeneous treatment effects of recommender systems. Invited for an oral presentation at MIT's Conference on Digital Experimentation (CODE) 2022.
