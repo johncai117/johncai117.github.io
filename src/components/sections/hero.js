@@ -53,10 +53,11 @@ const Hero = () => {
   const four = (
     <p>
       I'm a machine learning engineer at <a href="https://engineering.fb.com/">Meta</a> working on{' '}
+      recommender systems at{' '}
       <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained">
         Instagram Ranking
       </a>
-      . Previously, I worked on on building solutions for ranking and recommendations at{' '}
+      . Previously, I worked on recommender systems and natural langauge understanding at{' '}
       <a href="https://eng.snap.com">Snapchat</a>.
     </p>
   );
