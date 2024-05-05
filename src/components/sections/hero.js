@@ -53,7 +53,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm a machine learning engineer at <a href="https://engineering.fb.com/">Meta</a> working on{' '}
-      recommender systems at{' '}
+      deploying reliable and scalable ML at{' '}
       <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained">
         Instagram Ranking
       </a>
