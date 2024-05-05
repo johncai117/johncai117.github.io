@@ -133,7 +133,7 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Graph ML, Causal ML',
+    'Recommender Systems',
     'Computer Vision, NLP',
     'A/B Testing, Econometrics',
     'Multi-Armed Bandits',
@@ -151,20 +151,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm John, an Applied Research Scientist excited about using machine learning to
+              Hello! I'm John, a Machine Learning Engineer excited about using machine learning to
               solve real world problems. My goal is to translate innovative algorithms into scalable
               products.
             </p>
 
             <p>
-              Currently, I work on the Ranking Science team at{' '}
-              <a href="https://eng.snap.com">Snap Inc</a>, where we drive horizontal improvements
-              for the major ranking and recommendation surfaces across Snapchat.
+              Currently, I work as a Machine Learning Engineer on{' '}
+              <a href="https://about.instagram.com/blog">Instagram</a>. Previously, I worked on the
+              Ranking Science team at <a href="https://eng.snap.com">Snap Inc</a>, where we drove
+              horizontal improvements for content recommendations at Snapchat.
             </p>
 
             <p>
-              Previously, I worked on the Applied Research team at Snap, primarily developing causal
-              ML, graph ML and large-scale forecasting systems. Before Snap, I graduated from{' '}
+              Before Snap, I graduated from{' '}
               <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
               specializing in Financial Engineering and Machine Learning. While at Princeton, I
               presented my research on deep learning under limited data settings and domain shifts

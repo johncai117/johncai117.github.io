@@ -52,9 +52,12 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build reliable ML.</h3>;
   const four = (
     <p>
-      I'm an applied research scientist with expertise in developing reliable ML models, building
-      scalable MLOps systems and leveraging data to drive business outcomes. Currently, I'm focused
-      on building solutions for ranking and recommendations at{' '}
+      I'm a machine learning engineer at <a href="https://engineering.fb.com/">Meta Platforms</a>{' '}
+      working on{' '}
+      <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained">
+        Instagram Ranking
+      </a>
+      . Previously, I worked on on building solutions for ranking and recommendations at{' '}
       <a href="https://eng.snap.com">Snap Inc</a>.
     </p>
   );
