@@ -1,6 +1,6 @@
 ---
 date: '2020-06-20'
-title: 'Machine Learning Engineer Intern'
+title: 'Software Engineer Intern'
 company: 'GovTech'
 location: 'Singapore'
 range: 'May 2020 - July 2020'
