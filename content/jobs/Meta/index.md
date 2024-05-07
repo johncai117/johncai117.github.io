@@ -8,5 +8,5 @@ url: 'https://about.instagram.com/blog'
 ---
 
 - Worked on the Instagram Communications Ranking team
-- Deployed largee-scale deep-learning based recommender sytems
+- Deployed deep-learning based recommender sytems at scale
 - Built MLOps detectors for model prediction quality and feature coverage
