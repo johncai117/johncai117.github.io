@@ -3,7 +3,7 @@ date: '2021-11-08'
 title: 'Applied Research Scientist'
 company: 'Snap Inc'
 location: 'Santa Monica'
-range: 'Nov 2021 - Present'
+range: 'Nov 2021 - Mar 2024'
 url: 'https://www.snap.com/'
 ---
 

@@ -57,7 +57,7 @@ const Hero = () => {
       <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained">
         Instagram Ranking
       </a>
-      . Previously, I worked on recommender systems and natural langauge understanding at{' '}
+      . Previously, I worked on recommender systems and content understanding at{' '}
       <a href="https://eng.snap.com">Snapchat</a>.
     </p>
   );
