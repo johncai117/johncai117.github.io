@@ -157,7 +157,7 @@ const About = () => {
             </p>
 
             <p>
-              Currently, I work as a Machine Learning Engineer on{' '}
+              Currently, I work as a Machine Learning Engineer on the Communications Ranking team at{' '}
               <a href="https://about.instagram.com/blog">Instagram</a>. Previously, I worked on the
               Ranking Science team at <a href="https://eng.snap.com">Snap Inc</a>, where we drove
               horizontal improvements for content recommendations at Snapchat.
