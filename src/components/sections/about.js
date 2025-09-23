@@ -152,15 +152,16 @@ const About = () => {
           <div>
             <p>
               Hello! I'm John, a Machine Learning Engineer excited about using machine learning to
-              solve real world problems. My goal is to translate innovative algorithms into scalable
-              products.
+              solve real world problems. My goal is to translate innovative algorithms into scalable products 
+              that impact millions of users.
             </p>
 
             <p>
-              Currently, I work as a Machine Learning Engineer on the Communications Ranking team at{' '}
-              <a href="https://about.instagram.com/blog">Instagram</a>. Previously, I worked on the
-              Ranking Science team at <a href="https://eng.snap.com">Snap Inc</a>, where we drove
-              horizontal improvements for content recommendations at Snapchat.
+            Currently, I work as a Senior Machine Learning Engineer on the Generative AI team at{' '} 
+            Meta. I focus on building ML systems for Generative AI, content understanding and recommendation systems.
+            Previously, I worked on the Ranking Science team at Snap Inc, where I drove horizontal improvements for 
+            content recommendations at Snapchat and developed novel methods for detecting 
+            heterogeneous treatment effects in recommender systems.
             </p>
 
             <p>

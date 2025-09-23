@@ -53,11 +53,10 @@ const Hero = () => {
   const four = (
     <p>
       I'm a machine learning engineer at <a href="https://engineering.fb.com/">Meta</a> working on{' '}
-      deploying reliable and scalable ML for{' '}
-      <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained">
-        Instagram Ranking
-      </a>
-      . Previously, I worked on recommender systems and content understanding at{' '}
+      Generative AI for{' '} Images and Vidoes. Previously, I worked on deep recommender systems 
+      at <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained">
+        Instagram
+      </a> and{' '}
       <a href="https://eng.snap.com">Snap Inc</a>.
     </p>
   );
