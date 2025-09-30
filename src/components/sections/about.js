@@ -133,14 +133,14 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Large Language Models',
     'Recommender Systems',
-    'Computer Vision, NLP',
-    'A/B Testing, Econometrics',
-    'Multi-Armed Bandits',
-    'PySpark, SQL',
+    'Video Understanding, Computer Vision',
+    'Parameter Efficient Fine-Tuning',
     'PyTorch, TensorFlow',
-    'Python, R',
-    'C++, Haskell',
+    'PySpark, SQL',
+    'Python, PHP',
+    'C++'
   ];
 
   return (
@@ -157,11 +157,10 @@ const About = () => {
             </p>
 
             <p>
-            Currently, I work as a Senior Machine Learning Engineer on the Generative AI team at{' '} 
-            Meta. I focus on building ML systems for Generative AI, content understanding and recommendation systems.
-            Previously, I worked on the Ranking Science team at Snap Inc, where I drove horizontal improvements for 
-            content recommendations at Snapchat and developed novel methods for detecting 
-            heterogeneous treatment effects in recommender systems.
+            Currently, I work as a Senior Machine Learning Engineer at Meta Superintelligence Labs, where I focus on building 
+            ML systems for Generative AI.
+            Previously, I worked on the Applied Research team at Snap Inc, where I focused on using computational statistics 
+            to improve recommender systems.
             </p>
 
             <p>
