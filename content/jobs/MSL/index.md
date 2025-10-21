@@ -4,7 +4,8 @@ title: 'Machine Learning Engineer'
 company: 'Meta Superintelligence Labs'
 location: 'New York'
 range: 'Mar 2025 - Present'
-url: 'https://www.meta.com/superintelligence/?srsltid=AfmBOoozIolKeFojS2lqI_Lmkn-Ah_BP5d_dwcMTQhEnephMtbeYz1zK'
+url: 'https://about.fb.com/news/2025/09/introducing-vibes-ai-videos/'
 ---
 
-- Working on Generative AI for Media (Images, Videos)
+- Worked on Generative AI for Media (Images, Videos)
+- Drove the development and deployment of auto-evals supporting the launch of AI Video Feed.
