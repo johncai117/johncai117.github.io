@@ -9,5 +9,7 @@ tech:
   - XLW
   - Financial Engineering
 company: Princeton University
-showInProjects: false
+showInProjects: true
 ---
+
+Simulated barrier option prices using MCMC methods in C++.

@@ -10,5 +10,7 @@ tech:
   - NLTK
   - Natural Language Processing
 company: Princeton University
-showInProjects: false
+showInProjects: true
 ---
+
+Predicted stock prices using a convolutional neural net operating across the temporal dimension.
