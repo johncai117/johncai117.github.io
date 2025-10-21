@@ -12,4 +12,4 @@ company: Princeton University
 showInProjects: true
 ---
 
-Simulated barrier option prices using MCMC methods in C++.
+Simulated barrier option prices using Markov Chain Monte Carlo (MCMC) and Partial Differential Equation (PDE) methods in C++.
