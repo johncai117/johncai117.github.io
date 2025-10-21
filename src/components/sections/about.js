@@ -140,7 +140,7 @@ const About = () => {
     'PyTorch, TensorFlow',
     'PySpark, SQL',
     'Python, PHP',
-    'C++'
+    'C++',
   ];
 
   return (
@@ -152,24 +152,27 @@ const About = () => {
           <div>
             <p>
               Hello! I'm John, a Machine Learning Engineer excited about using machine learning to
-              solve real world problems. My goal is to translate innovative algorithms into scalable products 
-              that impact millions of users.
+              solve real world problems. My goal is to translate innovative algorithms into scalable
+              products that impact millions of users.
             </p>
 
             <p>
-            Currently, I work as a Senior Machine Learning Engineer at Meta Superintelligence Labs, where I focus on building 
-            ML systems for Generative AI.
-            Previously, I worked on the Applied Research team at Snap Inc, where I focused on using computational statistics 
-            to improve recommender systems.
+              Currently, I work as a Senior Machine Learning Engineer at Meta Superintelligence
+              Labs, where I focus on building auto-evals for Generative AI, supporting the launch of{' '}
+              <a href="https://about.fb.com/news/2025/09/introducing-vibes-ai-videos/">Vibes</a>.
             </p>
 
             <p>
-              Before Snap, I graduated from{' '}
-              <a href="https://bcf.princeton.edu/master-in-finance/">Princeton University</a>,
-              specializing in Financial Engineering and Machine Learning. While at Princeton, I
-              presented my research on deep learning under limited data settings and domain shifts
-              at <a href="https://www.learning-with-limited-labels.com/challenge">CVPR 2020 VL3</a>{' '}
-              and <a href="https://l2id.github.io">CVPR 2021 L2ID</a>.
+              Previously, I worked on the Applied Research team at Snap Inc, where I focused on
+              using computational statistics to improve recommender systems, with an oral
+              presentation at <a href="https://arxiv.org/pdf/2211.01547">CODE@MIT</a>.
+            </p>
+
+            <p>
+              I enjoy working at the intersection of research and engineering and have published
+              research in the area of deep learning and fine-tuning under limited data settings at{' '}
+              <a href="https://www.learning-with-limited-labels.com/challenge">CVPR VL3</a> and{' '}
+              <a href="https://l2id.github.io">CVPR L2ID</a>.
             </p>
 
             <p>Here's what I've been up to lately: </p>
