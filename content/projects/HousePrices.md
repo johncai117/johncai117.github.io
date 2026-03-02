@@ -4,9 +4,9 @@ title: 'House Price Prediction using XGBoost'
 tech:
   - Python
   - XGBoost
-  - Sci-kit Learn
+  - scikit-learn
 company: 'Princeton University'
 showInProjects: False
 ---
 
-Cleaned and processed a dataset and applied XGBoost to achieve highger accuracies. Interpolated missing data using K-Nearest-Neighbors.
+Cleaned and processed a dataset and applied XGBoost to achieve higher accuracies. Interpolated missing data using K-Nearest-Neighbors.

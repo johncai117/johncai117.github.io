@@ -6,7 +6,7 @@ tech:
   - Tensorflow
   - transformers
   - HuggingFace
-  - ntlk
+  - nltk
 company: 'Princeton University'
 showInProjects: True
 ---

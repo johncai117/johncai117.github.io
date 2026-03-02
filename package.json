@@ -64,6 +64,9 @@
     "smooth-scroll": "^16.1.0",
     "styled-components": "^4.4.0"
   },
+  "resolutions": {
+    "undici": "5.28.4"
+  },
   "devDependencies": {
     "@upstatement/eslint-config": "0.4.3",
     "@upstatement/prettier-config": "^0.3.0",
