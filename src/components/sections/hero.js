@@ -53,7 +53,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm a machine learning engineer at <a href="https://www.meta.com/superintelligence/?srsltid=AfmBOopUGyx5nlWSA2sDqv02vEwhOgyE4Mg5qQ6U6UNuSZby-NIC91jp">Meta Superintelligence Labs</a> working on{' '}
-      Generative AI for{' '} Images and Vidoes. Previously, I worked on deep recommender systems
+      Generative AI for{' '} Images and Videos. Previously, I worked on deep recommender systems
       at <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained">
         Instagram
       </a> and{' '}
