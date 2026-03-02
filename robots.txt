@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://johnc.ai/sitemap.xml
+Sitemap: https://johnc.ai/sitemap-index.xml
 Host: https://johnc.ai
