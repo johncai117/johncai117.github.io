@@ -133,13 +133,14 @@ const About = () => {
   }, []);
 
   const skills = [
+    'LLM Pretraining Data',
     'Large Language Models',
+    'Evals & Benchmarks',
     'Recommender Systems',
     'Video Understanding, Computer Vision',
-    'Parameter Efficient Fine-Tuning',
     'PyTorch, TensorFlow',
     'PySpark, SQL',
-    'Python, PHP',
+    'Python',
     'C++',
   ];
 
@@ -157,9 +158,17 @@ const About = () => {
             </p>
 
             <p>
-              Currently, I work as a Senior Machine Learning Engineer at Meta Superintelligence
-              Labs, where I focus on building auto-evals for Generative AI, supporting the launch of{' '}
-              <a href="https://about.fb.com/news/2025/09/introducing-vibes-ai-videos/">Vibes</a>.
+              Currently, I work on pretraining data and data curation at{' '}
+              <a href="https://reflection.ai">Reflection AI</a>.
+            </p>
+
+            <p>
+              Before that, I was at Meta Superintelligence Labs, where I built auto-evals for
+              Generative AI, supporting the launch of{' '}
+              <a href="https://about.fb.com/news/2025/09/introducing-vibes-ai-videos/">Vibes</a>. My
+              work there led to <a href="https://arxiv.org/abs/2608.13167">TRAPSBench</a> (COLM
+              2026), which shows that vision-language models internally know when a question can't
+              be answered, but fail to say so.
             </p>
 
             <p>

@@ -52,11 +52,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build reliable ML.</h3>;
   const four = (
     <p>
-      I'm a machine learning engineer at <a href="https://www.meta.com/superintelligence/?srsltid=AfmBOopUGyx5nlWSA2sDqv02vEwhOgyE4Mg5qQ6U6UNuSZby-NIC91jp">Meta Superintelligence Labs</a> working on{' '}
-      Generative AI for{' '} Images and Videos. Previously, I worked on deep recommender systems
-      at <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained">
-        Instagram
-      </a> and{' '}
+      I work on pretraining data and data curation at{' '}
+      <a href="https://reflection.ai">Reflection AI</a>. Previously, I was at{' '}
+      <a href="https://www.meta.com/superintelligence/">Meta Superintelligence Labs</a> and{' '}
       <a href="https://eng.snap.com">Snap Inc</a>.
     </p>
   );
