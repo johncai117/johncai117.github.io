@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build data for LLMs.</h3>;
   const four = (
     <p>
-      LLMs = data × compute. I work on pretraining data at{' '}
+      Intelligence = data × compute. I work on pretraining data at{' '}
       <a href="https://reflection.ai">Reflection AI</a>. Before Reflection, I worked on multimodal
       evals at <a href="https://www.meta.com/superintelligence/">Meta Superintelligence Labs</a>.
     </p>
