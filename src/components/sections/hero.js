@@ -49,15 +49,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">John Cai.</h2>;
-  const three = <h3 className="big-heading">I build reliable ML.</h3>;
+  const three = <h3 className="big-heading">I build data for LLMs.</h3>;
   const four = (
     <p>
-      I'm a machine learning engineer at <a href="https://www.meta.com/superintelligence/?srsltid=AfmBOopUGyx5nlWSA2sDqv02vEwhOgyE4Mg5qQ6U6UNuSZby-NIC91jp">Meta Superintelligence Labs</a> working on{' '}
-      Generative AI for{' '} Images and Videos. Previously, I worked on deep recommender systems
-      at <a href="https://about.instagram.com/blog/announcements/instagram-ranking-explained">
-        Instagram
-      </a> and{' '}
-      <a href="https://eng.snap.com">Snap Inc</a>.
+      Intelligence = data × compute. I work on pretraining data at{' '}
+      <a href="https://reflection.ai">Reflection AI</a>. Before Reflection, I worked on multimodal
+      evals at <a href="https://www.meta.com/superintelligence/">Meta Superintelligence Labs</a>.
     </p>
   );
   const five = (
