@@ -157,8 +157,8 @@ const About = () => {
             </p>
 
             <p>
-              At <a href="https://reflection.ai">Reflection AI</a>, I work on pretraining data, from
-              raw bytes to training tokens to downstream evals.
+              At <a href="https://reflection.ai">Reflection AI</a>, we're building frontier open
+              intelligence. I work on the data: from raw bytes to training tokens to data ablations.
             </p>
 
             <p>
