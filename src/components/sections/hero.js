@@ -54,7 +54,7 @@ const Hero = () => {
     <p>
       LLMs = data × compute × architecture. I work on pretraining data at{' '}
       <a href="https://reflection.ai">Reflection AI</a>. Before Reflection, I worked on multimodal
-      evals at <a href="https://www.meta.com/superintelligence/">MSL</a>.
+      evals at <a href="https://www.meta.com/superintelligence/">Meta Superintelligence Labs</a>.
     </p>
   );
   const five = (
