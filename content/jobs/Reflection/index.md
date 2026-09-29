@@ -7,4 +7,4 @@ range: 'Apr 2026 - Present'
 url: 'https://reflection.ai'
 ---
 
-- Working on pretraining data and data curation.
+- Working on pretraining data, from raw bytes to training tokens to downstream evals.
