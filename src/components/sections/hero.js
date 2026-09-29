@@ -49,13 +49,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">John Cai.</h2>;
-  const three = <h3 className="big-heading">I build reliable ML.</h3>;
+  const three = <h3 className="big-heading">I build data for LLMs.</h3>;
   const four = (
     <p>
-      I work on pretraining data and data curation at{' '}
-      <a href="https://reflection.ai">Reflection AI</a>. Previously, I was at{' '}
-      <a href="https://www.meta.com/superintelligence/">Meta Superintelligence Labs</a> and{' '}
-      <a href="https://eng.snap.com">Snap Inc</a>.
+      LLMs = data × compute × architecture. I work on pretraining data at{' '}
+      <a href="https://reflection.ai">Reflection AI</a>. Before Reflection, I worked on multimodal
+      evals at <a href="https://www.meta.com/superintelligence/">MSL</a>.
     </p>
   );
   const five = (
