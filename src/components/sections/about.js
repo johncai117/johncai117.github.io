@@ -152,9 +152,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm John, a Machine Learning Engineer excited about using machine learning to
-              solve real world problems. My goal is to translate innovative algorithms into scalable
-              products that impact millions of users.
+              Hello! I'm John. I think a lot about data: what models learn from, and how we measure
+              what they've learned.
             </p>
 
             <p>
